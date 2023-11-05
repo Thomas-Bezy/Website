@@ -13,7 +13,7 @@ cover:
     alt: "Figure from paper"
     relative: false
 editPost:
-    URL: "https://doi.org/paper_doi"
+    URL: "aaa"
     Text: "Journal/Repository Name"
 
 ---
