@@ -1,4 +1,4 @@
-baseURL: "https://thomas-bezy.org/hugo-website/" 
+baseURL: "https://thomas-bezy.github.io/hugo-website/" 
 title: Prof. Name
 paginate: 20
 theme: PaperMod
