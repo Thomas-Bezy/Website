@@ -15,7 +15,7 @@ menu:
           url: papers/
           weight: 1
         - name: CV
-          url: CV.pdf
+          url: static/CV.pdf
           weight: 2
         - name: Contact
           url: location/
