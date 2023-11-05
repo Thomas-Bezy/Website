@@ -11,32 +11,29 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
+        - name: Research
           url: papers/
           weight: 1
-        - name: Courses
-          url: courses/
+        - name: CV
+          url: CV.pdf
           weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+        - name: Contact
+          url: location/
+          weight: 3
 
 params:
     description: "I am a Professor of Subject at the University of Place. My research covers various topics.
 consequat."
-    author: Name
+    author: Thomas Bézy
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
+    defaultTheme: white
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
-    disableAnchoredHeadings: true
+    disableAnchoredHeadings: false
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
@@ -51,53 +48,31 @@ consequat."
     profileMode:
           enabled: true
           title: Thomas Bézy
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Prof. Name
+          subtitle: "Welcome to my website! <br> 
+			I'm Thomas Bézy, second year PhD candidate at the Paris School of Economics under the supervision of <a href=https://www.parisschoolofeconomics.eu/fr/millock-katrin/><u>Katrin Millock</a></u> and <a href=https://lucaschancel.com/><u>Lucas Chancel</u></a>. My research is centered on <b>inequalities on the housing market, with a particular focus on adaptation to climate change.</b> <br> 
+			I am a research fellow at the <a href=https://socialeconomicslab.org/><u>Social Economics Lab</a></u> and at the <a href=https://inequalitylab.world/en/><u>World Inequality Lab</a></u>. <br> <br>
+			You can find my <a href=CV.pdf><u>CV here</a></u> and contact me using this email address: <u>thomas.bezy@psemail.eu</u>"
+          imageUrl: "Photo_TB.png"
+          imageWidth: 250
+          imageHeight: 250
+          imageTitle: Thomas Bézy
           buttons:
-            - name: Papers
+            - name: Research
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+            - name: CV
+              url: CV.pdf
+            - name: Contact
+              url: location/
 
     assets:
-        disableHLJS: true
-        disableScrollBarStyle: true
+        disableHLJS: false
+        disableScrollBarStyle: false
     cover:
         hiddenInList: false
-        hiddenInSingle: true
+        hiddenInSingle: false
     label:
-      text: "Prof. Name"
-      icon: favicon.ico
+      text: "Thomas Bézy"
+      icon: logo.png
       iconHeight: 18
 
 markup:
