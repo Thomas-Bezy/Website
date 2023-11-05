@@ -15,6 +15,7 @@ cover:
     alt: "Image caption"
     relative: false
 editPost:
+    url: "TBetal_diff_recrutements.pdf"
     Text: "France Stratégie Working Paper (R&R at Economie et Statistiques)"
 
 ---
@@ -23,7 +24,7 @@ editPost:
 
 ##### Download
 
-+ [France Stratégie Working paper (French only)](diff_recrut.pdf)
++ [France Stratégie Working paper (French only)](TBetal_diff_recrutements.pdf)
 
 ---
 
