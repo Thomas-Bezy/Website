@@ -4,18 +4,18 @@ date: 2023-11-05
 description: "aaa" 
 summary: "This paper documents the vulnerability and exposure to flood risk with fine-grain data for the universe of homeowners, landlords and tenants in France. Using data at the dwelling level, I distinguish the exposure of owner-occupied, rented, second, and vacant homes, and link these properties to the disposable income and housing wealth of their owners and tenants. I measure vulnerability to floods, diversification strategies and sorting over flood risk across the income and wealth distributions. Finally, I derive the implications of these findings for adaptation policies." 
 cover:
-    image: "shares_flooding.png"
+    image: "shares_flooding_nov.png"
     alt: "Image caption"
     relative: false
 editPost:
-    url: "TB_Incidence_flood_risk.pdf"
+    url: "TB_Incidence_flood_risk_nov.pdf"
     Text: "Working paper"
 
 ---
 
 ##### Download
 
-+ [Working paper](TB_Incidence_flood_risk.pdf)
++ [Working paper](TB_Incidence_flood_risk_nov.pdf)
 
 ---
 
