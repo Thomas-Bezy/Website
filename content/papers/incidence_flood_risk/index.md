@@ -29,4 +29,5 @@ This paper documents the vulnerability and exposure to flood risk with fine-grai
 
 + <a href= https://www.pourleco.com/environnement/dommages-climatiques-et-si-les-assureurs-ne-pouvaient-plus-assurer>Pour l'Eco: <i>Dommages climatiques : et si les assureurs ne pouvaient plus assurer ?</i></a>
 
++ <a href= https://www.lemonde.fr/idees/article/2023/12/04/climat-il-y-a-urgence-a-preciser-les-contours-et-l-organisation-de-la-protection-sociale-ecologique-du-xxi-siecle_6203834_3232.html>Le Monde: <i>Climat : « Il y a urgence à préciser les contours et l’organisation de la protection sociale écologique du XXIᵉ siècle »</i></a>
 
