@@ -8,14 +8,14 @@ cover:
     alt: "Image caption"
     relative: false
 editPost:
-    url: "TB_Incidence_flood_risk_nov.pdf"
+    url: "TB_Incidence_flood_risk_dec2023.pdf"
     Text: "Working paper"
 
 ---
 
 ##### Download
 
-+ [Working paper](TB_Incidence_flood_risk_nov.pdf)
++ [Working paper](TB_Incidence_flood_risk_dec2023.pdf)
 
 ---
 
