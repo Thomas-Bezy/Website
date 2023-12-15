@@ -28,7 +28,9 @@ tags:
 featured: false
 
 links:
-url_pdf: files/TB_incidence_flood_risk_dec2023.pdf
+ - name: "Working Paper"
+   url: files/TB_incidence_flood_risk_dec2023.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
