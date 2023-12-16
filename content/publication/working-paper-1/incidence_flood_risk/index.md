@@ -30,6 +30,10 @@ featured: false
 links:
  - name: "Working Paper"
    url: files/TB_incidence_flood_risk_dec2023.pdf
+ - name: "Journal article in Pour l'eco"
+   url: https://www.pourleco.com/environnement/dommages-climatiques-et-si-les-assureurs-ne-pouvaient-plus-assurer
+ - name: "Journal article in Le Monde"
+   url: https://www.lemonde.fr/idees/article/2023/12/04/climat-il-y-a-urgence-a-preciser-les-contours-et-l-organisation-de-la-protection-sociale-ecologique-du-xxi-siecle_6203834_3232.html
 url_pdf: ''
 url_code: ''
 url_dataset: ''
