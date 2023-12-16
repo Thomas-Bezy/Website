@@ -42,7 +42,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/cv_TB.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "thomas.bezy@psemail.eu"
@@ -56,4 +56,4 @@ user_groups:
 
 I'm Thomas Bézy, second year PhD candidate at the Paris School of Economics under the supervision of <a href=https://www.parisschoolofeconomics.eu/fr/millock-katrin/><u>Katrin Millock</a></u> and <a href=https://lucaschancel.com/><u>Lucas Chancel</u></a>. My research is centered on <b>inequalities on the housing market, with a particular focus on adaptation to climate change.</b> <br> 
 I am a research fellow at the <a href=https://socialeconomicslab.org/><u>Social Economics Lab</a></u> and at the <a href=https://inequalitylab.world/en/><u>World Inequality Lab</a></u>. <br> <br>
-You can find my <a href=files/cv.pdf><u>CV here</a></u>, contact me using this email address: <u>thomas.bezy@psemail.eu</u> and find my publications and working papers below.
+You can find my <a href=files/cv_TB.pdf><u>CV here</a></u>, contact me using this email address: <u>thomas.bezy@psemail.eu</u> and find my publications and working papers below.
