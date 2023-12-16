@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antoine Levy | Thomas Bézy</title>
-    <link>https://thomas-bezy.github.io/Website/author/antoine-levy/</link>
-      <atom:link href="https://thomas-bezy.github.io/Website/author/antoine-levy/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/antoine-levy/</link>
+      <atom:link href="/author/antoine-levy/index.xml" rel="self" type="application/rss+xml" />
     <description>Antoine Levy</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thomas-bezy.github.io/Website/images/icon_hud8c10f350cad157bc7b750ce5c74edee_11194_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hud8c10f350cad157bc7b750ce5c74edee_11194_512x512_fill_lanczos_center_3.png</url>
       <title>Antoine Levy</title>
-      <link>https://thomas-bezy.github.io/Website/author/antoine-levy/</link>
+      <link>/author/antoine-levy/</link>
     </image>
     
     <item>
       <title>Who&#39;s your landlord? Assortative matching in rental markets</title>
-      <link>https://thomas-bezy.github.io/Website/publication/working-paper-1/assortative_matching/</link>
+      <link>/publication/working-paper-1/assortative_matching/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thomas-bezy.github.io/Website/publication/working-paper-1/assortative_matching/</guid>
+      <guid>/publication/working-paper-1/assortative_matching/</guid>
       <description></description>
     </item>
     
