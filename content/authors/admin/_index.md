@@ -16,6 +16,8 @@ role: PhD candidate in Economics
 organizations:
 - name: Paris School of Economics
   url: ""
+- name: Currently visiting the London School of Economics
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -55,5 +57,8 @@ user_groups:
 ---
 
 I'm Thomas Bézy, second year PhD candidate at the Paris School of Economics under the supervision of <a href=https://www.parisschoolofeconomics.eu/fr/millock-katrin/><u>Katrin Millock</a></u> and <a href=https://lucaschancel.com/><u>Lucas Chancel</u></a>. My research is centered on <b>inequalities on the housing market, with a particular focus on adaptation to climate change.</b> <br> 
-I am a research fellow at the <a href=https://socialeconomicslab.org/><u>Social Economics Lab</a></u> and at the <a href=https://inequalitylab.world/en/><u>World Inequality Lab</a></u>. <br> <br>
+I am a research fellow at the <a href=https://socialeconomicslab.org/><u>Social Economics Lab</a></u> and at the <a href=https://inequalitylab.world/en/><u>World Inequality Lab</a></u>.
+
+I am visiting the London School of Economics until June 2024.
+
 You can find my <a href=files/cv_TB.pdf><u>CV here</a></u>, contact me using this email address: <u>thomas.bezy[at]psemail.eu</u> and find my publications and working papers below.
