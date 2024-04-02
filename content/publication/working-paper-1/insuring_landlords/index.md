@@ -17,20 +17,20 @@ publishDate: "2023-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Work in progress"
+publication: "Working paper"
 publication_short: ""
 
-abstract: Alleviating unpaid rent risk can influence landlords' willingness to supply housing, and, in turn, the access of constrained tenants to high-opportunity neighborhoods. To examine the consequences of insuring landlords against unpaid rent, we study the implementation of Visale, a publicly funded insurance covering unpaid rent risk in France, free of charge for eligible landlords and tenants. Exploiting quasi-experimental variation in eligibility to Visale, we show that the guarantee improved access to rental housing for eligible tenants. The effects are stronger for poorer and immigrant renters, who were less likely to satisfy traditional screening criteria for landlords. Administrative registry and income tax information on all French households as well as confidential data on Visale beneficiaries show that the scheme increased the directed migration of treated low-income renters towards high-opportunity, high-rent neighbourhoods. It led them to form new households and substitute out of public housing, but potentially displaced some untreated households in the "housing rat race".
+abstract: This paper demonstrates that unpaid rent risk makes landlords reluctant to supply housing services to fragile tenants; and that insuring owners against it improves the access of renters to high-opportunity neighborhoods. We study the implementation of Visale, a publicly funded rent guarantee insurance policy in France, free of charge to eligible tenants and landlords. We exploit tax registry information on all French households, exhaustive data on Visale beneficiaries and claim payouts, and quasi-experimental eligibility variation across renters. We demonstrate that the non-payment guarantee increased access to private-sector rental housing for eligible tenants. The effects are stronger for immigrants and those with low or volatile incomes, who often do not satisfy standard screening criteria for landlords. The scheme eased the spatial mobility of low-income renters towards higher-wage, higher-rent locations. It led to new household formation, some reallocation of the vacant housing stock, and substitution out of public housing, but may have displaced ineligible households in tighter housing markets.
 
 # Summary. An optional shortened abstract.
-summary: Alleviating unpaid rent risk can influence landlords' willingness to supply housing, and, in turn, the access of constrained tenants to high-opportunity neighborhoods. To examine the consequences of insuring landlords against unpaid rent, we study the implementation of Visale, a publicly funded insurance covering unpaid rent risk in France, free of charge for eligible landlords and tenants. We show that the guarantee improved access to rental housing for eligible tenants. Administrative registry and income tax information on all French households as well as confidential data on Visale beneficiaries show that the scheme increased the directed migration of treated low-income renters towards high-opportunity, high-rent neighbourhoods. It led them to form new households and substitute out of public housing, but potentially displaced some untreated households in the "housing rat race".
+summary: This paper demonstrates that unpaid rent risk makes landlords reluctant to supply housing services to fragile tenants; and that insuring owners against it improves the access of renters to high-opportunity neighborhoods. We study the implementation of Visale, a publicly funded rent guarantee insurance policy in France, free of charge to eligible tenants and landlords. We demonstrate that the non-payment guarantee increased access to private-sector rental housing for eligible tenants. The scheme eased the spatial mobility of low-income renters towards higher-wage, higher-rent locations. It led to new household formation, some reallocation of the vacant housing stock, and substitution out of public housing, but may have displaced ineligible households in tighter housing markets.
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: ''
+url_pdf: files/Insuring_landlords_BLM.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
