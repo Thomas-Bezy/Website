@@ -1,5 +1,5 @@
 ---
-title: "How can we Explain the Recruitment Difficulties Anticipated by Companies?"
+title: "Recruitment Difficulties Anticipated by Companies: What Are the Explanatory Factors in France?"
 authors:
 - Thomas Bézy
 - Catherine Bruneau
@@ -11,7 +11,7 @@ date: "2021-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2024-12-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,13 +20,13 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Forthcoming at Economics and Statistics"
+publication: "Economie et Statistique / Economics and Statistics 544, 55–73"
 publication_short: ""
 
-abstract: This study investigates the factors that contribute to difficulties that firms face when trying to recruit new employees. We match firm surveys to firm’s tax records and administrative data to see how factors such as industry, location, company size, and employment characteristics affect recruitment difficulties. Our results show that about 10% of the variance in recruitment difficulties can be explained by these observable factors, and up to 14% when considering difficulties from the previous year. However, most of the difficulties encountered by companies are due to factors not captured by our data, which may be related to internal characteristics of the company such as management quality and the recruitment process.
+abstract: This article examines the difficulties anticipated by companies in France when it comes to recruiting staff. We match data from the 2018 and 2019 Besoins en Main‑d’Œuvre surveys on workforce needs with company data from the FARE annual structural statistics of companies from the ESANE scheme and the DADS (Déclaration annuelle de données sociales – Annual Declaration of Social Data) to examine how recruitment difficulties are distributed by sector, location and size of the establishment and employment area characteristics. Together, these factors explain around 6% of the total variation in recruitment challenges, increasing to 14% when incorporating recruitment difficulties reported in the previous year. Most of the recruitment difficulties anticipated thus result from factors not observed in the data used in this article, potentially linked to the internal characteristics of each establishment, such as the quality of management and specific recruitment processes.
 
 # Summary. An optional shortened abstract.
-summary: This study investigates the factors that contribute to difficulties that firms face when trying to recruit new employees. We match firm surveys to firm’s tax records and administrative data to see how factors such as industry, location, company size, and employment characteristics affect recruitment difficulties. Our results show that about 10% of the variance in recruitment difficulties can be explained by these observable factors, and up to 14% when considering difficulties from the previous year. However, most of the difficulties encountered by companies are due to factors not captured by our data, which may be related to internal characteristics of the company such as management quality and the recruitment process.
+summary: This article examines the difficulties anticipated by companies in France when it comes to recruiting staff. We match several data sources to examine how recruitment difficulties are distributed by sector, location and size of the establishment and employment area characteristics. Together, these factors explain around 6% of the total variation in recruitment challenges, increasing to 14% when incorporating recruitment difficulties reported in the previous year. Most of the recruitment difficulties anticipated thus result from factors not observed in the data used in this article, potentially linked to the internal characteristics of each establishment, such as the quality of management and specific recruitment processes.
 
 tags:
 - Source Themes

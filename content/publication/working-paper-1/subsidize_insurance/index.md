@@ -1,5 +1,5 @@
 ---
-title: "Is it a good idea to subsidize flood insurance? Evidence from France"
+title: "Is it a good idea to subsidize flood insurance? Evidence from risk pooling in France"
 authors:
 - admin
 date: "2024-11-07T00:00:00Z"
