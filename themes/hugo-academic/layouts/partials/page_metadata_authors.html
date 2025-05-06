@@ -1,0 +1,16 @@
+{{/* Display author names without any links, including admin */}}
+
+{{- $taxonomy := "authors" }}
+{{ with .Param $taxonomy }}
+  {{ range $index, $name_raw := . }}
+    {{- if gt $index 0 }}, {{ end -}}
+    {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy $name_raw) -}}
+    {{- $name := $profile_page.Title | default $name_raw -}}
+    <span>{{ $name }}</span>
+    {{- if isset $.Params "author_notes" -}}
+      {{- with (index $.Params.author_notes $index) -}}
+        <span title="{{.}}" class="author-notes">(?)</span>
+      {{- end -}}
+    {{- end -}}
+  {{- end }}
+{{- end -}}

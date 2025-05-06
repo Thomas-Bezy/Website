@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antoine Levy | Thomas Bézy</title>
+    <link>http://localhost:1313/Website/author/antoine-levy/</link>
+      <atom:link href="http://localhost:1313/Website/author/antoine-levy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antoine Levy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/Website/images/icon_hu_db5b4cbf432da922.png</url>
+      <title>Antoine Levy</title>
+      <link>http://localhost:1313/Website/author/antoine-levy/</link>
+    </image>
+    
+    <item>
+      <title>Insuring Landlords</title>
+      <link>http://localhost:1313/Website/publication/working-paper-1/insuring_landlords/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/publication/working-paper-1/insuring_landlords/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who&#39;s your landlord? Assortative matching in rental markets</title>
+      <link>http://localhost:1313/Website/publication/work-in-progress/assortative_matching/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/publication/work-in-progress/assortative_matching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

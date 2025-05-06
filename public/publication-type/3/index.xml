@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Thomas Bézy</title>
+    <link>http://localhost:1313/Website/publication-type/3/</link>
+      <atom:link href="http://localhost:1313/Website/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/Website/images/icon_hu_db5b4cbf432da922.png</url>
+      <title>3</title>
+      <link>http://localhost:1313/Website/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Insuring Landlords</title>
+      <link>http://localhost:1313/Website/publication/working-paper-1/insuring_landlords/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/publication/working-paper-1/insuring_landlords/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

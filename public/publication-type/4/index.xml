@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Thomas Bézy</title>
+    <link>http://localhost:1313/Website/publication-type/4/</link>
+      <atom:link href="http://localhost:1313/Website/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/Website/images/icon_hu_db5b4cbf432da922.png</url>
+      <title>4</title>
+      <link>http://localhost:1313/Website/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Exposure to floods of new build homes: A comparative analysis between France and the UK</title>
+      <link>http://localhost:1313/Website/publication/policy-writings/comparison-france-uk/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/publication/policy-writings/comparison-france-uk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

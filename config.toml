@@ -1,0 +1,124 @@
+# ----------------------------------
+# Hugo Configuration for Your Site
+# ----------------------------------
+
+# Basic Info
+title = "Thomas Bézy"
+baseurl = "https://thomas-bezy.github.io/Website/"
+theme = "hugo-academic"
+copyright = ""
+
+# Git Info (for last modified dates)
+enableGitInfo = false
+
+# Language Settings
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+hasCJKLanguage = false
+removePathAccents = true
+
+# Summary & Emojis
+summaryLength = 30
+enableEmoji = true
+
+# Pagination
+[pagination]
+pagerSize = 10
+footnotereturnlinkcontents = "<sup>^</sup>"
+
+# Ignore files
+ignoreFiles = [
+  "\\.ipynb$", 
+  ".ipynb_checkpoints$", 
+  "\\.Rmd$", 
+  "\\.Rmarkdown$", 
+  "_files$", 
+  "_cache$"
+]
+
+# Permalinks
+[permalinks]
+  authors = "/author/:slug/"
+  tags = "/tag/:slug/"
+  categories = "/category/:slug/"
+  publication_types = "/publication-type/:slug/"
+
+# Output formats
+[outputs]
+  home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+  section = ["HTML", "RSS"]
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
+
+# Markdown Renderer
+[markup]
+  defaultMarkdownHandler = "goldmark"
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.highlight]
+    codeFences = false
+
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+# Image Processing
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 90
+  anchor = "smart"
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"
+
+# Related Content
+[related]
+  threshold = 80.0
+  includeNewer = true
+  toLower = true
+
+  [[related.indices]]
+    name = "title"
+    weight = 60.0
+
+  [[related.indices]]
+    name = "summary"
+    weight = 50.0
+
+  [[related.indices]]
+    name = "tags"
+    weight = 80.0
+
+  [[related.indices]]
+    name = "categories"
+    weight = 70.0
+
+  [[related.indices]]
+    name = "authors"
+    weight = 20.0
+
+# -----------------------------
+# Analytics & Marketing Config
+# -----------------------------
+
+googleAnalytics = ""  # Optional: set to "G-XXXXXXX" or "UA-XXXXXX-X" if used
+
+[params.marketing]
+  google_analytics = ""       # Same as above if preferred
+  google_tag_manager = ""     # Optional: only if using GTM
+
+# -----------------------------------
+# END OF CONFIGURATION
+# -----------------------------------

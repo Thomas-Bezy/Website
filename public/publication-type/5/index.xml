@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 | Thomas Bézy</title>
+    <link>http://localhost:1313/Website/publication-type/5/</link>
+      <atom:link href="http://localhost:1313/Website/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/Website/images/icon_hu_db5b4cbf432da922.png</url>
+      <title>5</title>
+      <link>http://localhost:1313/Website/publication-type/5/</link>
+    </image>
+    
+    <item>
+      <title>Flood risk pricing and the housing supply: Evidence from insurance pooling in France</title>
+      <link>http://localhost:1313/Website/publication/work-in-progress/subsidize_insurance/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/publication/work-in-progress/subsidize_insurance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real estate wealth inequality and exposure to natural disasters</title>
+      <link>http://localhost:1313/Website/publication/work-in-progress/disasters_inequality/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/publication/work-in-progress/disasters_inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who&#39;s your landlord? Assortative matching in rental markets</title>
+      <link>http://localhost:1313/Website/publication/work-in-progress/assortative_matching/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/publication/work-in-progress/assortative_matching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
