@@ -13,7 +13,7 @@ superuser: true
 role: PhD candidate in Economics
 
 # Organizations/Affiliations
-organizations:
+organizations: 
 - name: Paris School of Economics
   url: ""
 - name: Office R5-68
