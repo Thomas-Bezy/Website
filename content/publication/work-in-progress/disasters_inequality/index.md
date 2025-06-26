@@ -28,10 +28,12 @@ tags:
 featured: false
 
 links:
- - name: "Journal article in Pour l'eco"
+ - name: "Press article in Pour l'eco"
    url: https://www.pourleco.com/environnement/dommages-climatiques-et-si-les-assureurs-ne-pouvaient-plus-assurer
- - name: "Journal article in Le Monde"
+ - name: "Press article in Le Monde"
    url: https://www.lemonde.fr/idees/article/2023/12/04/climat-il-y-a-urgence-a-preciser-les-contours-et-l-organisation-de-la-protection-sociale-ecologique-du-xxi-siecle_6203834_3232.html
+ - name: "Press article in Argus de l'assurance"
+   url: https://www.argusdelassurance.com/green-assurance/catastrophes-naturelles/indemnisation-des-catastrophes-naturelles-faut-il-sacrifier-les-residences-secondaires.235990
 url_pdf: ''
 url_code: ''
 url_dataset: ''
