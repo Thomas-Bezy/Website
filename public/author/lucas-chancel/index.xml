@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Chancel | Thomas Bézy</title>
+    <link>http://localhost:1313/Website/author/lucas-chancel/</link>
+      <atom:link href="http://localhost:1313/Website/author/lucas-chancel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lucas Chancel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/Website/images/icon_hu_db5b4cbf432da922.png</url>
+      <title>Lucas Chancel</title>
+      <link>http://localhost:1313/Website/author/lucas-chancel/</link>
+    </image>
+    
+    <item>
+      <title>Réinventer la solidarité assurantielle face aux effets inégalitaires du réchauffement climatique (in French)</title>
+      <link>http://localhost:1313/Website/publication/policy-writings/social-protection/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/publication/policy-writings/social-protection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

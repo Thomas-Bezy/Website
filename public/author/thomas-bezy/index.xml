@@ -5,11 +5,16 @@
     <link>http://localhost:1313/Website/author/thomas-bezy/</link>
       <atom:link href="http://localhost:1313/Website/author/thomas-bezy/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Bézy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>http://localhost:1313/Website/images/icon_hu_db5b4cbf432da922.png</url>
       <title>Thomas Bézy</title>
       <link>http://localhost:1313/Website/author/thomas-bezy/</link>
+    </image>
+    
+  </channel>
+</rss>
+hor/thomas-bezy/</link>
     </image>
     
     <item>
