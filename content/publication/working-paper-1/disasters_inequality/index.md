@@ -15,7 +15,7 @@ publishDate: "2025-05-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "World Inequality Lab working paper, Revise and resubmit at Nature Communications"
 publication_short: ""
 
 abstract: "This paper examines how natural disaster risks are distributed across tenants, owner-occupants, and owners of rental, second, and vacant homes. Prior studies, relying on aggregate income data and focusing only on residents, typically find that low-income households are more exposed to flooding. However, this approach overlooks half of the exposed housing stock--owned by non-residents. Using dwelling-level data covering the entire French housing market, I document large disparities in exposure to flooding and subsidence. Once properties owned by non-residents are included, flood risk appears to disproportionately affect second homes, while subsidence mainly affects owner-occupied dwellings. These patterns have important policy implications. First, untargeted flood insurance subsidies tend to benefit second-homes, whereas subsidence coverage mainly supports owner-occupied dwellings. Second, using a new approach to estimate risk discounts, I show that natural disaster risks are not priced into rental, second and vacant properties, driving about 15% of the total overvaluation in flood-prone areas. Finally, place-based adaptation policies such as building resilient defenses may fail to target the most critical areas if ownership structures are ignored."
