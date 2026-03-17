@@ -30,6 +30,8 @@ featured: false
 links:
  - name: "World Inequality Lab Working paper"
    url: https://wid.world/document/real-estate-wealth-inequality-and-exposure-to-natural-disasters-world-inequality-lab-working-paper-2025-16/
+ - name: "World Inequality Lab Policy Brief"
+   url: https://wid.world/document/reinventer-la-solidarite-assurantielle-face-aux-effets-inegalitaires-du-rechauffement-climatique/
  - name: "Press article in Pour l'eco"
    url: https://www.pourleco.com/environnement/dommages-climatiques-et-si-les-assureurs-ne-pouvaient-plus-assurer
  - name: "Press article in Le Monde"
