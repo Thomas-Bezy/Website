@@ -5,7 +5,7 @@
     <link>http://localhost:1313/Website/publication-type/5/</link>
       <atom:link href="http://localhost:1313/Website/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
     <description>5</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/Website/images/icon_hu_db5b4cbf432da922.png</url>
       <title>5</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Flood risk pricing and the housing supply: Evidence from insurance pooling in France</title>
+      <title>Closing the flood insurance protection gap: Evidence from mandated pooling in France</title>
       <link>http://localhost:1313/Website/publication/work-in-progress/subsidize_insurance/</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/publication/work-in-progress/subsidize_insurance/</guid>
       <description></description>
     </item>
