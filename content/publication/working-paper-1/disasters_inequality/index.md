@@ -38,6 +38,8 @@ links:
    url: https://www.lemonde.fr/idees/article/2023/12/04/climat-il-y-a-urgence-a-preciser-les-contours-et-l-organisation-de-la-protection-sociale-ecologique-du-xxi-siecle_6203834_3232.html
  - name: "Press article in Argus de l'assurance"
    url: https://www.argusdelassurance.com/green-assurance/catastrophes-naturelles/indemnisation-des-catastrophes-naturelles-faut-il-sacrifier-les-residences-secondaires.235990
+ - name: "Press article in Alternatives Economiques"
+   url: https://www.alternatives-economiques.fr/un-systeme-dassurance-inegalitaire-face-aux-degats-du-changement-climatiq/00118181
 url_pdf: ''
 url_code: ''
 url_dataset: ''
