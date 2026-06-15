@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+    name = "Job Market Paper"
+    url = "#job-market-paper"
+    weight = 20
+
+[[main]]
     name = "Working papers"
     url = "#working-papers"
     weight = 20
@@ -17,6 +22,8 @@
     name = "Work in progress"
     url = "#work-in-progress"
     weight = 30
+
+
 [[main]]
   name = "Publications"
   url = "#publications"
