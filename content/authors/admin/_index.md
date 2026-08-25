@@ -58,6 +58,6 @@ user_groups:
 
 I am Thomas Bézy, PhD candidate at the Paris School of Economics under the supervision of <a href=https://www.parisschoolofeconomics.eu/fr/millock-katrin/>Katrin Millock</a> and <a href=https://lucaschancel.com/>Lucas Chancel</a>. My research is at the intersection between <b>environmental and public economics</b>, with a particular focus on <b>adaptation to climate change.</b> I am also a research fellow at the <a href=https://inequalitylab.world/en/>World Inequality Lab</a>. <br>
 
-<b>I will be on the 2026-2027 job market.</b> <br>
+<b>I am on the 2026-2027 job market.</b> <br>
 
 You can find my <a href=files/CV_052025.pdf><u>CV here</a></u>, contact me using this email address: <u>thomas.bezy[at]psemail.eu</u> and find my publications and working papers below.
