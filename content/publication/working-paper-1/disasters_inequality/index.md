@@ -1,21 +1,21 @@
 ---
-title: "Real estate wealth inequality and exposure to natural disasters"
+title: "Real estate wealth inequality and exposure to natural disasters with evidence from France"
 authors:
 - admin
-date: "2025-05-07T00:00:00Z"
+date: "2026-05-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-01T00:00:00Z"
+publishDate: "2026-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "World Inequality Lab working paper, Conditionally accepted at Nature Communications"
+publication: "Forthcoming at Nature Communications"
 publication_short: ""
 
 abstract: "Most studies measuring inequalities in exposure to climate disasters rely on aggregate income data and focus on residents. However, by omitting dwellings owned by nonresidents, this approach overlooks half of the housing stock exposed to flooding. Using dwelling-level data covering the entire French housing market, this paper examines how natural disaster risks are distributed across tenants, owner-occupants, and owners of rental, second, and vacant properties. The results highlight large differences with the standard approach that focuses on residents. Once properties owned by nonresidents are included, flood risk disproportionately affects second homes, while subsidence mainly affects owner-occupied dwellings. These patterns have important policy implications. First, untargeted flood insurance subsidies tend to benefit second homes, whereas subsidence coverage mainly supports owner-occupied dwellings. Second, using a new approach to estimate risk discounts, this study shows that natural disaster risks are not priced into rental, second, and vacant properties, driving at least 15% of the total overvaluation in flood-prone areas. "

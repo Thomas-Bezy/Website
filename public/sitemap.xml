@@ -20,28 +20,34 @@
     <loc>http://localhost:1313/Website/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/Website/publication-type/2/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/authors/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/publication_types/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/publication/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/publication/working-paper-1/disasters_inequality/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tag/source-themes/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/author/thomas-bezy/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/Website/publication-type/6/</loc>
     <lastmod>2026-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Website/authors/</loc>
-    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/publication_types/</loc>
-    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/publication/</loc>
-    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/tag/source-themes/</loc>
-    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/tags/</loc>
-    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/Website/publication/jmp/subsidize_insurance/</loc>
-    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/author/thomas-bezy/</loc>
     <lastmod>2026-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/publication-type/4/</loc>
@@ -54,10 +60,7 @@
     <lastmod>2025-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/publication-type/3/</loc>
-    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/publication/working-paper-1/disasters_inequality/</loc>
-    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/author/antoine-levy/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
@@ -76,9 +79,6 @@
   </url><url>
     <loc>http://localhost:1313/Website/author/viktor-rozer/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/publication-type/2/</loc>
-    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/author/catherine-bruneau/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/Website/tag/source-themes/</link>
       <atom:link href="http://localhost:1313/Website/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/Website/images/icon_hu_db5b4cbf432da922.png</url>
       <title>Source Themes</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>The economic implications of making flood insurance affordable</title>
+      <title>Real estate wealth inequality and exposure to natural disasters with evidence from France</title>
+      <link>http://localhost:1313/Website/publication/working-paper-1/disasters_inequality/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/publication/working-paper-1/disasters_inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socializing Flood Risk: The Implications of Public Reinsurance in Europe</title>
       <link>http://localhost:1313/Website/publication/jmp/subsidize_insurance/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/publication/jmp/subsidize_insurance/</guid>
@@ -25,14 +33,6 @@
       <link>http://localhost:1313/Website/publication/policy-writings/wil-policy-brief/</link>
       <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/publication/policy-writings/wil-policy-brief/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Real estate wealth inequality and exposure to natural disasters</title>
-      <link>http://localhost:1313/Website/publication/working-paper-1/disasters_inequality/</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/publication/working-paper-1/disasters_inequality/</guid>
       <description></description>
     </item>
     
