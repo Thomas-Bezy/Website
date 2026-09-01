@@ -1,5 +1,5 @@
 ---
-title: "Mutualizing Flood Risk: The Implications of Public Reinsurance in Europe"
+title: "Socializing Flood Risk: The Implications of Public Reinsurance in Europe"
 authors:
 - admin
 date: "2026-01-07T00:00:00Z"
