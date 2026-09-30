@@ -16,7 +16,7 @@ role: PhD candidate in Economics
 organizations: 
 - name: Paris School of Economics
   url: ""
-- name: Office R5-68
+- name: Office R5-32
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -56,8 +56,18 @@ user_groups:
 - Visitors
 ---
 
-I am Thomas Bézy, PhD candidate at the Paris School of Economics under the supervision of <a href=https://www.parisschoolofeconomics.eu/fr/millock-katrin/>Katrin Millock</a> and <a href=https://lucaschancel.com/>Lucas Chancel</a>. My research is at the intersection between <b>environmental and public economics</b>, with a particular focus on <b>adaptation to climate change.</b> I am also a research fellow at the <a href=https://inequalitylab.world/en/>World Inequality Lab</a>. <br>
+I am Thomas Bézy, PhD candidate at the Paris School of Economics working at the intersection of <b>environmental and public economics</b>. My research combines fine-grained geolocated data, reduced-form evidence, and spatial equilibrium modelling to evaluate the welfare effects of flood insurance policies.  <br> 
+
+In Spring 2024, I visited the London School of Economics with Prof. Daniel Sturm. <br> In Fall 2024, I visited UC Berkeley with Prof. Antoine Levy.
 
 <b>I am on the 2026-2027 job market.</b> <br>
+
+<b> References: </b> 
+<a href=https://www.parisschoolofeconomics.eu/fr/millock-katrin/>Katrin Millock</a>, 
+<a href=https://lucaschancel.com/>Lucas Chancel</a>, 
+<a href=https://www.stefanie-stantcheva.com/>Stefanie Stantcheva</a>, and 
+<a href=https://sites.google.com/view/antoine-levy/home/>Antoine Levy</a>.
+
+
 
 You can find my <a href=files/CV_052025.pdf><u>CV here</a></u>, contact me using this email address: <u>thomas.bezy[at]psemail.eu</u> and find my publications and working papers below.
