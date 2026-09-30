@@ -16,7 +16,7 @@ role: PhD candidate in Economics
 organizations:
 - name: Paris School of Economics
   url: ""
-- name: Office R5-68
+- name: Office R5-32
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
