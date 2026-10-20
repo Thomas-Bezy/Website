@@ -3,7 +3,7 @@ title: "Who's your landlord? Assortative matching in rental markets"
 authors:
 - admin
 - Antoine Levy
-date: "2023-09-07T00:00:00Z"
+date: "2026-09-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

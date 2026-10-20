@@ -4,11 +4,11 @@ authors:
 - admin
 - Antoine Levy
 - Tim McQuade
-date: "2025-02-07T00:00:00Z"
+date: "2026-02-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-01T00:00:00Z"
+publishDate: "2026-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: "2025-02-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working paper"
+publication: "[Submitted]"
 publication_short: ""
 
 abstract: This paper demonstrates that unpaid rent risk deters landlords from supplying housing services to fragile renters; and that insuring owners against it improves the upward geographic mobility of constrained tenants to expensive, high-wage neighborhoods. We show theoretically that subsidizing rental insurance can improve efficiency by reducing the spatial misallocation of tenants. We test this prediction by studying the implementation of Visale, a publicly funded nationwide rent guarantee insurance policy in France, free of charge to eligible tenants and landlords. We exploit exhaustive registry information on all French households, data on the universe of Visale beneficiaries and claim payouts, and quasi-experimental eligibility variation across renters. We demonstrate that the non-payment guarantee increased access to private-sector rental housing for eligible tenants. The effects are stronger for immigrants, newly formed households, and those with low incomes, who often do not satisfy landlords’ standard screening criteria. By providing ex ante insurance, the scheme eased the long-distance spatial mobility of low-income renters towards higher-wage, higher-rent neighborhoods, at a moderate fiscal cost per marginal move.
@@ -31,7 +31,7 @@ featured: false
 
 links:
  - name: "Working Paper"
-   url: https://drive.google.com/file/d/1KKkUpNKpMqsYJBSVDylxQc-7SW4LlDlE/view 
+   url: https://drive.google.com/file/d/1120jc8I0mIvAt5X-hac4nmpQhfPoIPVj/view 
 url_pdf: 
 url_code: ''
 url_dataset: ''

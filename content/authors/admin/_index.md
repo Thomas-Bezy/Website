@@ -58,7 +58,7 @@ user_groups:
 
 I am Thomas Bézy, PhD candidate at the Paris School of Economics working at the intersection of <b>environmental and public economics</b>. My research combines fine-grained geolocated data, reduced-form evidence, and spatial equilibrium modelling to evaluate the welfare effects of flood insurance policies.  <br> 
 
-In Spring 2024, I visited the London School of Economics with Prof. Daniel Sturm. <br> In Fall 2024, I visited UC Berkeley with Prof. Antoine Levy.
+In Spring 2024, I visited the London School of Economics with Prof. Daniel Sturm and Prof. Swenja Surminski. <br> In Fall 2024, I visited UC Berkeley with Prof. Antoine Levy.
 
 <b>I am on the 2026-2027 job market.</b> <br>
 

@@ -15,7 +15,7 @@ publishDate: "2026-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Available soon"
+publication: ""
 publication_short: ""
 
 abstract: "Climate change challenges disaster insurance affordability, as insurers raise premiums to constitute reserves and remain solvent in the face of correlated, fat-tailed losses. This paper measures the welfare effects of public reinsurance, which combines mandatory coverage with a government backstop to lower premiums in floodplains. Using geolocated administrative data at the dwelling level from France, Belgium, and Switzerland, I estimate the efficiency cost of public reinsurance arising from additional construction in floodplains. Comparing areas inside and outside floodplains over time, I find that public reinsurance in France increases flood damage costs by 4% over 1982-2100. I then use these reduced-form estimates to calibrate a spatial equilibrium model with an embedded insurance market. Comparing the damage costs of additional construction against the premium reductions and changes in insurers' profits, I find that public reinsurance yields substantially larger welfare gains than a subsidized insurance scheme similar to the US National Flood Insurance Program. In the central scenario, these gains are above the total amount of flood damage costs. Importantly, these welfare estimates are likely to constitute a lower bound."
@@ -28,7 +28,8 @@ tags:
 featured: false
 
 links:
-url_pdf: ''
+ - name: "Working Paper"
+   url: https://drive.google.com/file/d/1cJU8zMX7UnMkMBHQ83BYGtns6nyRerBd/view?usp=drive_link
 url_code: ''
 url_dataset: ''
 url_poster: ''
