@@ -63,10 +63,10 @@ In Spring 2024, I visited the London School of Economics with Prof. Daniel Sturm
 <b>I am on the 2026-2027 job market.</b> <br>
 
 <b> References: </b> 
-<a href=https://www.parisschoolofeconomics.eu/fr/millock-katrin/>Katrin Millock</a>, 
-<a href=https://lucaschancel.com/>Lucas Chancel</a>, 
-<a href=https://www.stefanie-stantcheva.com/>Stefanie Stantcheva</a>, and 
-<a href=https://sites.google.com/view/antoine-levy/home/>Antoine Levy</a>.
+<a href=https://lucaschancel.com/>Lucas Chancel</a>,
+<a href=https://sites.google.com/view/antoine-levy/home/>Antoine Levy</a>,
+<a href=https://www.parisschoolofeconomics.eu/fr/millock-katrin/>Katrin Millock</a>, and
+<a href=https://www.stefanie-stantcheva.com/>Stefanie Stantcheva</a>.
 
 
 
