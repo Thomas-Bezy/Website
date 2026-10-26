@@ -1,5 +1,5 @@
 ---
-title: "Should Disaster Insurance Serve as a tool of Urban Planning?"
+title: "Should Disaster Insurance Serve as a Tool for Urban Planning?"
 authors:
 - admin
 # date: "2026-09-07T00:00:00Z"
@@ -18,7 +18,7 @@ publication_types: ["5"]
 publication: ""
 publication_short: ""
 
-abstract: Construction in disaster-prone areas is rising, which has led to mounting pressure to raise insurance premiums there. This paper compares the costs and benefits of raising disaster insurance premiums with those of taxing construction in risky areas. Combining building-level data from Belgium with a spatial equilibrium model, I show how construction taxes can be a more efficient way to regulate development in risky areas. First, construction taxes fall only on households moving into floodplains, whereas insurance-based policies typically charge all residents, including those who never move. Second, because low-income households underestimate flood risk even more, insurance-based policies increase the share of uninsured low-income households living in floodplains. Third, insurance-based policies can lead insurers to leave the market, whereas construction taxes can be paired with measures that prevent the market from unravelling.
+abstract: Construction in disaster-prone areas is rising, which has led to mounting pressure to reform disaster insurance, notably by raising premiums. Combining building-level data from Belgium with a spatial equilibrium model, I discuss how construction taxes can be a more efficient way to regulate development in risky areas than insurance-based policies. First, construction taxes fall only on households moving into floodplains, whereas insurance-based policies typically charge all residents, including those who never move. Second, because low-income households underestimate flood risk to a large extent, insurance-based policies increase the share of uninsured low-income households living in floodplains. Third, insurance-based policies can lead insurers to leave the market, whereas construction taxes can be paired with measures that prevent the market from unravelling.
 
 # Summary. An optional shortened abstract.
 summary: Landlords and tenants, on average, have opposite characteristics; but they display positive assortative matching within rental markets. In a nationwide data set containing administrative information on linked renter-occupiers and owners of investment properties in France, we document assortative matching by income level and composition, wealth, age, marital status and family structure, both across and within fine geographic segments. Consistent with a novel theory of rental housing assignment, the income correlation is only partially explained by observable characteristics such as location, size, or investment timing. This pattern has substantial implications for returns to wealth, and the incidence of housing market policies.
