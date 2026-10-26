@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesco Nuzzi | Thomas Bézy</title>
+    <link>http://localhost:1313/Website/author/francesco-nuzzi/</link>
+      <atom:link href="http://localhost:1313/Website/author/francesco-nuzzi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francesco Nuzzi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/Website/images/icon_hu_db5b4cbf432da922.png</url>
+      <title>Francesco Nuzzi</title>
+      <link>http://localhost:1313/Website/author/francesco-nuzzi/</link>
+    </image>
+    
+    <item>
+      <title>Me vs Others: Perception Gaps and Support for Redistribution</title>
+      <link>http://localhost:1313/Website/publication/work-in-progress/me_vs_others/</link>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/publication/work-in-progress/me_vs_others/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

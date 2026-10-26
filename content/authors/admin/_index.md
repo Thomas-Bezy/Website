@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Economics
+role: PhD in Economics
 
 # Organizations/Affiliations
 organizations: 
@@ -33,9 +33,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "thomas.bezy[at]psemail.eu".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/_ThomasBezy
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/_ThomasBezy
 - icon: linkedin
   icon_pack: fab
   link: https://fr.linkedin.com/in/thomas-bezy-686003173
@@ -44,7 +44,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/CV_052025.pdf
+  link: https://drive.google.com/file/d/1p6H761aEsDzjVkINDoMVEf-g48BMzs8Q/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "thomas.bezy[at]psemail.eu"
@@ -56,7 +56,7 @@ user_groups:
 - Visitors
 ---
 
-I am Thomas Bézy, PhD candidate at the Paris School of Economics working at the intersection of <b>environmental and public economics</b>. My research combines fine-grained geolocated data, reduced-form evidence, and spatial equilibrium modelling to evaluate the welfare effects of flood insurance policies.  <br> 
+I am Thomas Bézy, I hold a PhD from the Paris School of Economics and work at the intersection of <b>public and environmental economics</b>. My research combines granular geolocated and administrative data, reduced-form evidence, and spatial equilibrium modelling to evaluate the welfare effects of flood insurance policies.  <br> 
 
 In Spring 2024, I visited the London School of Economics with Prof. Daniel Sturm and Prof. Swenja Surminski. <br> In Fall 2024, I visited UC Berkeley with Prof. Antoine Levy.
 
@@ -64,10 +64,11 @@ In Spring 2024, I visited the London School of Economics with Prof. Daniel Sturm
 
 <b> References: </b> 
 <a href=https://lucaschancel.com/>Lucas Chancel</a>,
+<a href=https://eml.berkeley.edu/~cecile.gaubert/>Cecile Gaubert</a>,
 <a href=https://sites.google.com/view/antoine-levy/home/>Antoine Levy</a>,
 <a href=https://www.parisschoolofeconomics.eu/fr/millock-katrin/>Katrin Millock</a>, and
 <a href=https://www.stefanie-stantcheva.com/>Stefanie Stantcheva</a>.
 
 
 
-You can find my <a href=files/CV_052025.pdf><u>CV here</a></u>, contact me using this email address: <u>thomas.bezy[at]psemail.eu</u> and find my publications and working papers below.
+You can find my <a href=https://drive.google.com/file/d/1p6H761aEsDzjVkINDoMVEf-g48BMzs8Q/>CV here</a>, contact me using this email address: <u>thomas.bezy[at]psemail.eu</u> and find my publications and working papers below.
