@@ -41,9 +41,6 @@
     <loc>http://localhost:1313/Website/publication/</loc>
     <lastmod>2026-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Website/publication/work-in-progress/insurance_urban_planning/</loc>
-    <lastmod>2026-09-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/Website/tag/source-themes/</loc>
     <lastmod>2026-09-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -58,6 +55,9 @@
   </url><url>
     <loc>http://localhost:1313/Website/publication/work-in-progress/assortative_matching/</loc>
     <lastmod>2026-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/publication/work-in-progress/insurance_urban_planning/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/publication-type/2/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
